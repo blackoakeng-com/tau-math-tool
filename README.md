@@ -1,4 +1,8 @@
 # tau-math-tool
 tau RPN Win32 scientific calculator math tool
-Here is freely distributable download.
-SHA-256 = d55d3d5b79d633b5de6c75938de26aa857570072b553d8c24ee1ec3818e0495c
+Here is the freely distributable download.
+Version 1.01.01.
+SHA-256 = 
+a70cea2ca0b7763dd1a6b0ce0613f07eedb867c518fb4ec6e79576ba64c549fa  tau-1v01_01.exe
+
+
