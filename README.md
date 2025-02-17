@@ -1,8 +1,5 @@
 # tau-math-tool
 tau RPN Win32 scientific calculator math tool
+tau is a fast RPN scientific command line math tool with array processing, complex number support, matrix math, unit conversions, built-in help, logic operations, statistics, signal processing, and many advanced functions. This 'beta' release is a complete refactoring and is under review.	
 Here is the freely distributable download.
-NOTE - TAU is no longer supported by BOE.
-Version 1.01.02. 13 Dec 23.
-SHA-256 = 
-8e6241b7848da0658113071a9a594b592e32fde7969dcde8520d3ab33eaf38e9  tau-1v01_02.exe
-
+SHA-256 = EEBBE49F16039DF67A3D94375F519422805CB7AAF035CB4A3AE55AEDECE53907
